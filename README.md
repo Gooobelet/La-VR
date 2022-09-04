@@ -17,8 +17,8 @@ Les auteurs ayant contribuer a se programme :
 Distribuer sous la liscence MIT Liscence. Regarder `LISCENCE.txt` pour plus d'information.
 ## Installation
 *Quelques étapes pour réaliser cette installation*
-> 1. Obtenir une clé API gratuitement avec cette adresse : [https://exemple.com](https://exemple.com)
-> 2. Cloner le repo
-> ```
-> git clone https://github.com/votre-username_/Beat-Saber.git
-> ```
+    1. Obtenir une clé API gratuitement avec cette adresse : [https://exemple.com](https://exemple.com)
+    2. Cloner le repo
+    ```
+    git clone https://github.com/votre-username_/Beat-Saber.git
+    ```
