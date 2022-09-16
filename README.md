@@ -13,7 +13,7 @@ Les auteurs ayant contribuer a se programme :
 - **Jaroslav Beck** (Beat Games)
 - **Geaorges Washington**(???)
 - **~~Max Michelet~~**
-## Liscense
+## Liscens
 Distribuer sous la liscence MIT Liscence. Regarder `LISCENCE.txt` pour plus d'information.
 ## Installation
 ![alt text](https://www.realite-virtuelle.com/wp-content/uploads/2016/05/studio-de-production-VR-Samsung-860x450.jpg)
