@@ -25,7 +25,7 @@ git clone https://github.com/votre-username_/Beat-Saber.git
 ```
 3. Installer les packets NPM
 ```
-npm install
+npm installsss
 ```
 4. Entrer votre API dans le fichier `config.js`
 ```
